@@ -6,7 +6,7 @@ This project audits a machine learning model trained on the Adult Census Income 
 Historical income disparities exist in this dataset, especially along gender and racial lines, so evaluating fairness is essential before deploying such models in real-world systems.
 
 
-Bias_Audit_Adult_Income (2) (3).ipynb
+[Bias_Audit_Adult_Income (2) (3).ipynb](https://github.com/Nesh996/Bias_adult#:~:text=Bias_Audit_Adult_Income%20(2)%20(3).ipynb )
 
 Protected Groups
 
